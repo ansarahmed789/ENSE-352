@@ -15,8 +15,8 @@ Working on this project helped me gain a deeper understanding of embedded system
 - LEDs and buttons for user interaction
 
 ## Demo  
-A short video demonstration of the game in action is included below.  
-*(https://drive.google.com/file/d/1x99aBy6pEy-t-W9Vb2K3S51T2HtA30lC/view?usp=sharing)*
-
+A short video demonstration of the game in action is available here:  
+🎥 [Watch the Simon Says Game Demo](https://drive.google.com/file/d/1x99aBy6pEy-t-W9Vb2K3S51T2HtA30lC/view?usp=sharing)
+ 
 ## Final Thoughts  
 This project gave me the chance to explore both the technical and creative aspects of embedded systems. It was exciting to build something hands-on that’s interactive and fun to play. I'm looking forward to expanding on it in the future — maybe with difficulty levels, sound feedback, or even a display screen.
